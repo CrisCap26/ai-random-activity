@@ -1,7 +1,7 @@
 
 export default function Home() {
   return (
-    <nav className="p-2 bg-indigo-500">
+    <nav className="p-3 bg-pastel-blue text-black">
       <div className="flex justify-around">
         <div className="">
           Logo
