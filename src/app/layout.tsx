@@ -16,6 +16,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+      <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Playwrite+DE+Grund:wght@100..400&display=swap" />
+      </head>
       <body className="bg-[#F0F0F0] text-black">{children}</body>
     </html>
   );
